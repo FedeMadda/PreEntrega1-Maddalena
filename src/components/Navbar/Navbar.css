@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: auto 20px;
+    padding: 20px;
+  }
+
+li{
+    display: inline;
+}
+
+.logo{
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.btn{
+    padding: 20px;
+    margin: auto 20px;
+    border-radius: 5px;
+}
